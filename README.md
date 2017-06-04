@@ -1,5 +1,5 @@
 # HTML5-Puzzle-Game
 
 
-## How to start
-Open index.html in browser.
+## Link to the Game
+[Link to play it](https://igor9669.github.io/HTML5-Puzzle-Game/)
